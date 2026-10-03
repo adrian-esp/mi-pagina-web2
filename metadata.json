@@ -1,0 +1,6 @@
+{
+  "name": "CANIS — Modern Canine Monograph & Taxonomy",
+  "description": "A curated digital compendium of the world's most distinguished canine breeds detailing anatomical heritage, behavioral profiles, genetic traits, and biometrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
